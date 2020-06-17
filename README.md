@@ -1,1 +1,1 @@
-# https-github.com-sunplus-plus1-kernel54_bpi_f2s_img
+# Bpi_F2S kernel 5.4 images  
